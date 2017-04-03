@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Kate Nie"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD candidate at University of Toronto"
+  location         : "Toronto, Canada"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=Gb4zpNsAAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
